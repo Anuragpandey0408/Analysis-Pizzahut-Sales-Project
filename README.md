@@ -1,6 +1,6 @@
 # PizzaHut Sales Data Analysis Project
 
-![PizzaHut Logo](https://upload.wikimedia.org/wikipedia/commons/d/d2/Pizza_Hut_logo.svg)
+![PizzaHut Logo](https://upload.wikimedia.org/wikipedia/sco/thumb/d/d2/Pizza_Hut_logo.svg/1088px-Pizza_Hut_logo.svg.png)
 
 ## Introduction
 
