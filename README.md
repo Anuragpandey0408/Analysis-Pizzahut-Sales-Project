@@ -74,14 +74,6 @@ This project involves analyzing PizzaHut sales data using MySQL to extract meani
 
 ---
 
-## Installation and Setup
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/pizzahut-data-analysis.git
-   cd pizzahut-data-analysis
-
-
 ## Load the Dataset
 
 To load the PizzaHut sales data into MySQL Workbench, follow these steps:
@@ -125,4 +117,51 @@ After running the SQL queries, you can view the results directly in MySQL Workbe
 - Most ordered pizza types, etc.
 
 Simply review the query outputs and use them to interpret the insights gained from the PizzaHut sales data.
+
+
+## Results and Analysis
+
+### 1. Total Orders Placed
+The dataset contains **X** total orders.
+
+### 2. Total Revenue Generated
+The total revenue from pizza sales is **$Y**.
+
+### 3. Highest Priced Pizza
+The pizza with the highest price is the **Z Pizza**, priced at **$A**.
+
+### 4. Most Common Pizza Size Ordered
+The most commonly ordered pizza size is **B**.
+
+### 5. Top 5 Most Ordered Pizza Types:
+- **Pizza 1** - Qty: **Q1**
+- **Pizza 2** - Qty: **Q2**
+- **Pizza 3** - Qty: **Q3**
+- **Pizza 4** - Qty: **Q4**
+- **Pizza 5** - Qty: **Q5**
+
+### Note : All These Data are Provided in the Repository Problem Statement
+
+---
+
+## Future Work
+
+1. **Predictive Model**:
+   - Include a predictive model using the data to forecast future pizza sales.
+
+2. **Customer Segmentation and Promotions**:
+   - Perform more in-depth analyses such as customer segmentation and analyze the success rates of different promotions.
+
+---
+
+## Conclusion
+
+This analysis offers valuable insights into PizzaHut's sales patterns, popular pizza types, and revenue-generating products. By using MySQL to query and analyze the dataset, we have extracted actionable information that can drive future business decisions and enhance customer engagement strategies.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
 
