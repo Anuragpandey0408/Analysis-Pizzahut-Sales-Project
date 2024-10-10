@@ -1,6 +1,6 @@
 # PizzaHut Sales Data Analysis Project
 
-![PizzaHut Logo](https://seeklogo.com/images/P/pizza-hut-logo-DBFE2E48AF-seeklogo.com.png)
+![PizzaHut Logo](https://www.clipartmax.com/png/middle/73-737042_image-result-for-pizza-hut-logo-png-pizza-hut-logo-png.png)
 
 ## Introduction
 
