@@ -80,3 +80,49 @@ This project involves analyzing PizzaHut sales data using MySQL to extract meani
    ```bash
    git clone https://github.com/your-username/pizzahut-data-analysis.git
    cd pizzahut-data-analysis
+
+
+## Load the Dataset
+
+To load the PizzaHut sales data into MySQL Workbench, follow these steps:
+
+1. **Open MySQL Workbench**:
+   - Launch the MySQL Workbench application.
+
+2. **Navigate to Data Import**:
+   - Go to the `Server` menu and select `Data Import`.
+
+3. **Select the CSV File**:
+   - Choose the option to import a CSV file.
+   - Browse and select the file `PizzaHut_Data.csv` from your local system.
+
+4. **Import the Data**:
+   - Map the CSV columns to the corresponding fields in the new table.
+   - Click `Next` and complete the import process.
+   - The CSV data will be loaded into a new table in MySQL.
+
+---
+
+## Run SQL Queries
+
+After importing the dataset into MySQL Workbench, you can run the SQL queries to analyze the data.
+
+1. **Open the `pizza_sales.sql` File**:
+   - Navigate to the folder where you saved the SQL scripts.
+   - Open the `pizza_sales.sql` file in MySQL Workbench.
+
+2. **Execute the SQL Queries**:
+   - Run the SQL queries provided in the `pizza_sales.sql` file to retrieve the insights for the project questions.
+
+---
+
+## View Results
+
+After running the SQL queries, you can view the results directly in MySQL Workbench. The output of each query will provide answers to the questions posed in the project, such as:
+
+- Total number of orders placed
+- Total revenue generated from pizza sales
+- Most ordered pizza types, etc.
+
+Simply review the query outputs and use them to interpret the insights gained from the PizzaHut sales data.
+
